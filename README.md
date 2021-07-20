@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Arduino**
 
-- 📄 Know about my experiences [umut.dagdemir.fr](https://umut.dagdemir.fr)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/u-dagdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u-dagdemir" height="30" width="40" /></a>
