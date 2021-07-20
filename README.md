@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umut Dag</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h2 align="center">Hi 👋, I'm Umut Dag</h2>
+<h3 align="center">A passionate about programming in embedded electronics from France</h3>
 
 - 🌱 I’m currently learning **Python, Django and MongoDB**
 
